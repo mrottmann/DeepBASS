@@ -1,5 +1,4 @@
-# assbdl
-Active Semi-Supervised Bayesian Deep Learning
+# Active Semi-Supervised Bayesian Deep Learning
 
 This python script is based on keras with tensorflow backend. The script "assbdl.py" requires two command line parameters, resample_id and test_id, for further details please check out the source code.
 
