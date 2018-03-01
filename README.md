@@ -1,6 +1,6 @@
-# Deep Bayesian Active Semi-Supervised Learning
+# DeepBASS: Deep Bayesian Active Semi-Supervised Learning
 
-This python script is based on keras with tensorflow backend. The script "deepbass.py" requires two command line parameters, resample_id and test_id, for further details please check out the source code.
+This python script is based on keras with tensorflow backend.
 
 Library versions used:
 python3==3.4.6,
